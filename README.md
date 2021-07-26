@@ -11,6 +11,13 @@
 de Calculadora baseada em 
 [REST](https://pt.wikipedia.org/wiki/REST).
 
-## Todo
+## 📝 Todo
 
 - [x] (ronaldemanuel) - Peencher descrição das funcionalidades no projeto
+- [ ] (ronaldemanuel) - Definir tecnologia(s) utilizadas
+
+## 💻 Desenvolido utilizando 
+* Visual Studio Code. [Link](https://code.visualstudio.com/).
+
+## 📗 Sobre a licença
+[MIT Licence](https://opensource.org/licenses/MIT).
