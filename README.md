@@ -13,11 +13,15 @@ de Calculadora baseada em
 
 ## 📝 Todo
 
-- [x] (ronaldemanuel) - Peencher descrição das funcionalidades no projeto
-- [ ] (ronaldemanuel) - Definir tecnologia(s) utilizadas
+- [x] Peencher descrição das funcionalidades no projeto
+- [x] Definir tecnologia(s) utilizadas
+- [x] Implementar a rota de `soma`
+- [ ] Implementar a rota de `subtração`
 
 ## 💻 Desenvolido utilizando 
-* Visual Studio Code. [Link](https://code.visualstudio.com/).
+* [Visual Studio Code](https://code.visualstudio.com/).
+* [Node JS](https://nodejs.org)
+* [Express](https://expressjs.com)
 
 ## 📗 Sobre a licença
 [MIT Licence](https://opensource.org/licenses/MIT).
