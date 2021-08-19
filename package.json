@@ -1,0 +1,8 @@
+{
+  "name": "calc-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ronaldemanuel/calc-api.git",
+  "author": "ronaldemanuel <emronald15el@gmail.com>",
+  "license": "MIT"
+}
