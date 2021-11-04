@@ -1,4 +1,4 @@
-const app = require('./src/routes');
+import app from './src/routes';
 const PORT = 3000;
 
 app.listen(PORT, () => {
