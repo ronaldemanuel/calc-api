@@ -1,5 +1,5 @@
 const soma = require('./helper/soma');
-const express = require('express');
+import express from "express";
 const app = express();
 
 // Rota SOMA
@@ -8,9 +8,9 @@ app.get('/soma/:num1/:num2', (req, res) => {
     const num2 = parseFloat(req.params.num2);
     const resultado = soma(num1, num2);
     if (isNaN(resultado)) {
-        res.status(500).send({message: 'o parâmetro deve ser um número'});
+        res.status(500).send({ message: 'o parâmetro deve ser um número' });
     }
-    res.send({resultado});
+    res.send({ resultado });
 });
 
-module.exports = app;
+export default app;
