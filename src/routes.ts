@@ -10,7 +10,7 @@ app.get('/soma/:num1/:num2', (req, res) => {
     if (isNaN(resultado)) {
         res.status(500).send({ message: 'o parâmetro deve ser um número' });
     }
-    res.send({ resultado });
+    res.send(resultado.toString());
 });
 
 export default app;
