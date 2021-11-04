@@ -1,4 +1,4 @@
-const soma = require('./helper/soma');
+import soma from './helper/soma';
 import express from "express";
 const app = express();
 
